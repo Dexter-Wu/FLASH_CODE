@@ -4,6 +4,7 @@
 
 FLIM DATA PROCESSING AND RECONSTRUCTION TOOLBOX: DOCUMENTATION
 
+
 ================================================================
 I. PREREQUISITES & MATLAB TOOLBOXES
 ================================================================
@@ -22,6 +23,7 @@ To run this toolbox, ensure the following are installed in your MATLAB environme
 4. Image Processing Toolbox: 
    Required for basic image manipulation and visualization.
 
+  
 ================================================================
 II. DATA DESCRIPTION (TEST DATASETS) 
 ================================================================
@@ -49,6 +51,7 @@ III. PROJECT STRUCTURE (MAIN SCRIPTS)
 * Mian_ShowPeriodOverlay_V4.m: 
   Investigates the effect of cycle (period) overlaying on image quality.
 
+  
 ================================================================
 IV. FUNCTION LIBRARY
 ================================================================
@@ -87,6 +90,7 @@ C. VISUALIZATION & DIAGNOSTICS
   Visualizes the result of a single cycle overlay.
 - FLIM_Showallcyclesmaps: 
   Compares results across different cycle overlay configurations.
+
 
 ================================================================
 V. USAGE NOTES
