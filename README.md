@@ -5,8 +5,6 @@
 FLIM DATA PROCESSING AND RECONSTRUCTION TOOLBOX: DOCUMENTATION
 
 
-                                                   
-================================================================
 I. PREREQUISITES & MATLAB TOOLBOXES
 ================================================================
 To run this toolbox, ensure the following are installed in your MATLAB environment:
