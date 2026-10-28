@@ -5,7 +5,7 @@
 FLIM DATA PROCESSING AND RECONSTRUCTION TOOLBOX: DOCUMENTATION
 
 
-                                                              
+                                                   
 ================================================================
 I. PREREQUISITES & MATLAB TOOLBOXES
 ================================================================
