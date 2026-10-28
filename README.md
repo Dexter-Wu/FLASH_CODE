@@ -36,7 +36,7 @@ The following datasets are used for testing and validation:
 * Biological Experiments:
   - testData150: In vivo mouse experimental data
 
-Code source: http://gofile.me/6Ud2V/KXTGhqBHa
+Data source: http://gofile.me/6Ud2V/KXTGhqBHa
 ================================================================
 III. PROJECT STRUCTURE (MAIN SCRIPTS)
 ================================================================
