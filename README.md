@@ -22,8 +22,7 @@ To run this toolbox, ensure the following are installed in your MATLAB environme
 4. Image Processing Toolbox: 
    Required for basic image manipulation and visualization.
 
-  
-================================================================
+
 II. DATA DESCRIPTION (TEST DATASETS) 
 ================================================================
 The following datasets are used for testing and validation:
@@ -50,8 +49,7 @@ III. PROJECT STRUCTURE (MAIN SCRIPTS)
 * Mian_ShowPeriodOverlay_V4.m: 
   Investigates the effect of cycle (period) overlaying on image quality.
 
-  
-================================================================
+
 IV. FUNCTION LIBRARY
 ================================================================
 
@@ -91,7 +89,6 @@ C. VISUALIZATION & DIAGNOSTICS
   Compares results across different cycle overlay configurations.
 
 
-================================================================
 V. USAGE NOTES
 ================================================================
 - Parallelization: 
